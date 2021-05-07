@@ -1,4 +1,4 @@
-# duckmod
+# Duck Mod
 A Mod for Friday Night Funkin'
  
 Easiest mod GREAT for beginners. I would TOTALLY recommend this mod as your first shot at the game.
