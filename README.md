@@ -1,7 +1,11 @@
 # duckmod
 A Mod for Friday Night Funkin'
+ 
+Easiest mod GREAT for beginners. I would TOTALLY recommend this mod as your first shot at the game.
 
-Easiest mod GREAT for beginners. I would recommend this mod as your first shot at the game.
+This mod is closed source for now, but I have intentions to publish the code latr down the line. 
+I do not take credit for the Kade Engine as it was made by KadeDeveloppers.
+Most importantly, I have fun!!!!
 
 Go in releases to find the ZIP
 
